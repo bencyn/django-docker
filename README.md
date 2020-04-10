@@ -8,7 +8,7 @@
 
 ### Create django app
 
-3. docker-compose run web django-admin.py startproject app .
+3. docker-compose run web django-admin startproject app .
 
 
 #### Initialize the app
