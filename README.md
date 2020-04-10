@@ -13,4 +13,4 @@
 
 #### Initialize the app
 
-4. docker-compose up 
+4. docker-compose up --build
