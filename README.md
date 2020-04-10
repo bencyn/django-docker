@@ -14,3 +14,6 @@
 #### Initialize the app
 
 4. docker-compose up --build
+
+#### change file ownership to current user
+5. sudo chown -R $USER:$USER .
